@@ -1,7 +1,0 @@
-a new file
-1st modified
-<<<<<<< HEAD
-offline modifie1
-=======
-one line md 1st
->>>>>>> c9b3c0fe43d848f1d8d88c26bb21e56aee1115ef
